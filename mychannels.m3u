@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
@@ -19,5 +20,9 @@ http://smart.cwdn.cx:80/live/90561ca63c68/1f7734141ee8/257795.ts
 https://www.youtube.com/watch?v=GQ3hEk45XB0
 #EXTINF:-1 tvg-name="mp4" tvg-id="mp4" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ANWAR.jpg" group-title="videos",series
 https://smart.cwdn.cx:80/series/90561ca63c68/1f7734141ee8/851644.mp4
-#EXTINF:-1 tvg-name="" tvg-id="empty" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ANWAR.jpg" group-title="Undefined",empty
+#EXTINF:-1 tvg-name="mp42" tvg-id="mp42" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ANWAR.jpg" group-title="videos",series2
+http://smart.cwdn.cx:80/series/90561ca63c68/1f7734141ee8/851644.mp4
+#EXTINF:-1 tvg-name="بث" tvg-id="empty" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ANWAR.jpg" group-title="Undefined",empty
 http://82.115.12.241:8080/live/play/Y1U5WVltUnZVREJRTjNCNFIxcHJTREEzYzJsR1ZVVTBUVVpNU25kNVowVkpSU3RITWs5T01GQlZNRDA9/851644
+#EXTINF:-1 tvg-name="الجزيرة" tvg-id="aljzera" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="News",aljazera
+https://www.youtube.com/live/bNyUyrR0PHo?si=2Mqp6EnRukY8jNLH
