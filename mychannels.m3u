@@ -25,4 +25,7 @@ http://smart.cwdn.cx:80/series/90561ca63c68/1f7734141ee8/851644.mp4
 #EXTINF:-1 tvg-name="بث" tvg-id="empty" tvg-logo="http://logo.protv.cc/picons-dino/logos/AL-ANWAR.jpg" group-title="Undefined",empty
 http://82.115.12.241:8080/live/play/Y1U5WVltUnZVREJRTjNCNFIxcHJTREEzYzJsR1ZVVTBUVVpNU25kNVowVkpSU3RITWs5T01GQlZNRDA9/851644
 #EXTINF:-1 tvg-name="الجزيرة" tvg-id="aljzera" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="News",aljazera
-https://www.youtube.com/live/bNyUyrR0PHo?si=2Mqp6EnRukY8jNLH
+https://www.youtube.com/@aljazeera/live
+#EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" group-title="Albania",Euronews Albania Ⓨ
+https://www.youtube.com/@EuronewsAlbania/live
+
