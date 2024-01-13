@@ -28,4 +28,6 @@ http://82.115.12.241:8080/live/play/Y1U5WVltUnZVREJRTjNCNFIxcHJTREEzYzJsR1ZVVTBU
 https://www.youtube.com/@aljazeera/live
 #EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" group-title="Albania",Euronews Albania Ⓨ
 https://www.youtube.com/@EuronewsAlbania/live
+#EXTINF:-1 tvg-name="الميادين" tvg-id="almayaden" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/04/شعار_قناة_الميادين.jpg" group-title="News",almayaden
+https://www.youtube.com/@AlMayadeenLive1/live
 
