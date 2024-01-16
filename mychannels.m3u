@@ -44,7 +44,7 @@ https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة النبا" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" tvg-id="naba" group-title="news",قناة النبا
 http://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-name="AlEkhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya" group-title="news",AlEkhbariya
-al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+http://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 tvg-name="AlArabyTV" tvg-logo="https://cdn6.aptoide.com/imgs/6/8/9/689b42251d7db68dbc77bc6aa1febdeb_icon.png" tvg-id="AlArabyTV" group-title="news",AlArabyTV
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-name="AlArabyTV2" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-id="AlArabyTV2" group-title="news",AlArabyTV2
@@ -57,7 +57,6 @@ http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
 http://svs.itworkscdn.net/almasiralive/almasira/chunks.m3u8
 #EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
 http://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id="" group-title="news",
 #EXTINF:-1 tvg-name="IqraaArabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-id="IqraaArabic" group-title="general",IqraaArabic
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-name="ifilm" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic" group-title="general",iFilmArabic
