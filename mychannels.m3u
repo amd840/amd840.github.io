@@ -5,11 +5,11 @@ http://smart.cwdn.cx:80/live/90561ca63c68/1f7734141ee8/257795.ts
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1286875243_b446000.m3u8
 #EXTINF:-1 tvg-name="1المعارف" tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="main",Al Maaref (350p)
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
-#EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="" tvg-id="" group-title="main",
+#EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="" tvg-id="alkawther" group-title="main",
 http://95.216.180.111:1935/live/118/chunklist_w782322441.m3u8
-#EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="" tvg-id="" group-title="main",
+#EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",karbalaTV
 http://95.216.180.111:1935/live/45/chunklist_w2063903148.m3u8
-#EXTINF:-1 tvg-name="قناة الثقلين" tvg-logo="" tvg-id="" group-title="main",
+#EXTINF:-1 tvg-name="قناة الثقلين" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSmasiHJMNPLOQMMdUuh-jotsBg80yVn3Qfys5HUg=s900-c-k-c0x00ffffff-no-rj" tvg-id="Thaqalayn" group-title="main",Thaqalayn
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة الايمان" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-id="AlImanTV" group-title="main",AlImanTV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/playlist.m3u8
