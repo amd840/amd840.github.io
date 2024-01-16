@@ -33,7 +33,7 @@ https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:-1 tvg-name="قناة العالم" tvg-logo="" tvg-id="" group-title="news",
+#EXTINF:-1 tvg-name="قناة العالم" tvg-logo="" tvg-id="alalam" group-title="news",قناة العالم
 http://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
