@@ -23,8 +23,6 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 http://95.216.180.111:1935/live/2/chunklist_w11557330.m3u8
 #EXTINF:-1 tvg-name="قناة الصراط" tvg-logo="https://i.imgur.com/ps4Gtj0.png" tvg-id="AssiratTV" group-title="main",قناة الصراط
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-name="قناة المسار" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" tvg-id="AlMasarTV" group-title="main",قناة المسار
-http://www.azrotv.com/pyr/?id=https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-name="المسار" tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="news",قناة المسار
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-name="قناة المرجعية" tvg-logo="https://i.imgur.com/LsYYkUI.png" tvg-id="MarjaeyatTVArabic" group-title="main",MarjaeyatTVArabic
