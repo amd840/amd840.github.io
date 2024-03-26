@@ -37,7 +37,7 @@ http://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="news",قناة المنار
-http://95.216.180.111:1935/live/43/chunklist.m3u8
+https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة النبا" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" tvg-id="naba" group-title="news",قناة النبا
