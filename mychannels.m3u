@@ -40,6 +40,8 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
 https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الميادين" tvg-id="mdn" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/04/شعار_قناة_الميادين.jpg" group-title="news",قناة الميادين
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة النبا" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" tvg-id="naba" group-title="news",قناة النبا
 http://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-name="AlEkhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya" group-title="news",AlEkhbariya
