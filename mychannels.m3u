@@ -2,6 +2,8 @@
 http://smart.cwdn.cx:80/series/90561ca63c68/1f7734141ee8/851643.mp4
 #EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية
 https://ir14.livekadeh.com/hls2/alwilayah_tv_high.m3u8
+#EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية1
+https://www.youtube.com/watch?v=moQtMet7F7w
 #EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1286875243_b446000.m3u8
 #EXTINF:-1 tvg-name="1المعارف" tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="main",1المعارف
