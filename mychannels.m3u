@@ -34,9 +34,11 @@ https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 
 #EXTINF:-1 tvg-name="العتبة الحسينية" tvg-id="imamhussain" tvg-logo="https://imamhussain.org/filestorage/images/_t_55008d5f70d16.jpg" group-title="main",العتبة الحسينية
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711464844/ei/LI0CZoPGCZCSi9oPi9SYoAk/ip/92.205.15.128/id/5HF3IgtHa4c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f17xfSOIX7GVt1LV0557T8EzcagvpvJ9xXrJBA_0Kvg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgChMLxIpQg8B2DxDaHZk01IB6BCu2CL4365OrrC5_XkYCIBsQxAXacKbBK7PP5VriP6wW5yDwHY95o4Sgc7o4kB1g/file/index.m3u8
+https://youtube.com/@KarbalatvGroup/live
 #EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711465028/ei/5I0CZqr5IfrRi9oPyO2v4AI/ip/92.205.15.128/id/o5GcMeNuV8g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066117/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1fhkODtSZlXKK9JM1lAnfd_rNZULvT8voWjpN3aDCg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIFh9zL83QInvgkxIzU5G_xLt5F102LlJXPqYeqvPDz2AiEAsuQ5GmMEq0trHVbTRPRPu33-A-ByplwhTkCQ5CGGihw%3D/file/index.m3u8
+https://youtube.com/@alkafeeltv/live
+#EXTINF:-1 tvg-name="القرمزي" tvg-id="AlQarmaziProductions" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",القرمزي
+https://www.youtube.com/live/EPI2Ihr1FV8?feature=shared
 
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
