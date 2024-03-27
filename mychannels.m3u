@@ -29,11 +29,11 @@ https://master.starmena-cloud.com/hls/almasar.m3u8
 https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
 #EXTINF:-1 tvg-name="قناة النعيم" tvg-id="Al-Naeem TV" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="main",Al-Naeem TV (576p)
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
-#EXTINF:-1 tvg-name="قناة العهد" tvg-logo="https://i.imgur.com/YPj6kXq.png" tvg-id="alahd" group-title="main",قناة العهد
+#EXTINF:-1 tvg-name="قناة العهد" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/bd/ACmnVC0y.jpg" tvg-id="alahd" group-title="main",قناة العهد
 http://95.216.180.111:1935/live/7/chunklist_w11557330.m3u8
 
-#EXTINF:-1 tvg-name="test1" tvg-id="Al-Naeem TV1" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="main",test1
-http://95.216.180.111:1935/live/3/index.m3u8
+#EXTINF:-1 tvg-name="test1" tvg-id="Al-Naeem TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",test1
+https://s1.ettehadlive.com/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الانوار٢" tvg-id="Al Anwar 2" tvg-logo="https://pbs.twimg.com/profile_images/844196277055373312/iajyZSFA_400x400.jpg" group-title="main",الانوار ٢
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
