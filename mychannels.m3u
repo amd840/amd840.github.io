@@ -42,8 +42,8 @@ https://www.youtube.com/live/EPI2Ihr1FV8?feature=shared
 
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:-1 tvg-name="قناة العالم" tvg-logo="" tvg-id="alalam" group-title="news",قناة العالم
-http://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-name="قناة العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/قناة_العالم.png" tvg-id="alalam" group-title="news",قناة العالم
+http://20.84.80.199/api/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="news",قناة المنار
