@@ -67,6 +67,9 @@ http://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpub
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-name="ifilm" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic" group-title="general",iFilmArabic
 http://95.216.180.111:1935/live/15/chunklist.m3u8
+#EXTINF:-1 tvg-name="ifilm2" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic2" group-title="general",iFilmArabic2
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="MBC1" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-id="MBC1" group-title="general",MBC1
 http://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
 #EXTINF:-1 tvg-name="MBCDrama" tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="general",MBC Drama KSA
