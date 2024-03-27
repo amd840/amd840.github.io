@@ -32,7 +32,7 @@ https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:-1 tvg-name="قناة العهد" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/bd/ACmnVC0y.jpg" tvg-id="alahd" group-title="main",قناة العهد
 http://95.216.180.111:1935/live/7/chunklist_w11557330.m3u8
 
-#EXTINF:-1 tvg-name="test1" tvg-id="Al-Naeem TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",test1
+#EXTINF:-1 tvg-name="النجباء" tvg-id="ettehadlive" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",النجباء
 https://s1.ettehadlive.com/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الانوار٢" tvg-id="Al Anwar 2" tvg-logo="https://pbs.twimg.com/profile_images/844196277055373312/iajyZSFA_400x400.jpg" group-title="main",الانوار ٢
