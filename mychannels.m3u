@@ -2,12 +2,8 @@
 http://smart.cwdn.cx:80/series/90561ca63c68/1f7734141ee8/851643.mp4
 #EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية
 https://ir14.livekadeh.com/hls2/alwilayah_tv_high.m3u8
-#EXTINF:-1 tvg-name="alwilayah1" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",alwilayah1
-https://www.youtube.com/watch?v=moQtMet7F7w
 #EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w1286875243_b446000.m3u8
-#EXTINF:-1 tvg-name="1المعارف" tvg-id="AlMaarefTV.kw" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="main",1المعارف
-https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther" group-title="main",قناة الكوثر
 http://95.216.180.111:1935/live/118/chunklist_w782322441.m3u8
 #EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",قناة كربلاء
@@ -33,12 +29,8 @@ https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
 #EXTINF:-1 tvg-name="قناة النعيم" tvg-id="Al-Naeem TV" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="main",Al-Naeem TV (576p)
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 
-#EXTINF:-1 tvg-name="العتبة الحسينية" tvg-id="imamhussain" tvg-logo="https://imamhussain.org/filestorage/images/_t_55008d5f70d16.jpg" group-title="main",العتبة الحسينية
-https://youtube.com/@KarbalatvGroup/live
 #EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
 https://youtube.com/@alkafeeltv/live
-#EXTINF:-1 tvg-name="القرمزي" tvg-id="AlQarmaziProductions" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",القرمزي
-https://www.youtube.com/live/EPI2Ihr1FV8?feature=shared
 
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
@@ -46,7 +38,7 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 http://20.84.80.199/api/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="news",قناة المنار
+#EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="main",قناة المنار
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
 https://manar.live/iptv/playlist.m3u8
