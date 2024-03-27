@@ -40,6 +40,8 @@ http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
 https://youtube.com/@alkafeeltv/live
+#EXTINF:-1 tvg-name="العتبة العلوية" tvg-id="alawiya" tvg-logo="https://pbs.twimg.com/profile_images/1646963716859088901/qED_pcEb_400x400.jpg" group-title="main",العتبة العلوية
+https://s1.ettehadlive.com/live/120/playlist.m3u8
 
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
