@@ -109,6 +109,17 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-name="SSC2" tvg-id="SSC2HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 2
 https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
 
+#EXTINF:-1 tvg-name="test" tvg-id="test12" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube1
+http://20.84.80.199/tube/EuronewsAlbania
+
+#EXTINF:-1 tvg-name="test" tvg-id="test13" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube2
+http://20.84.80.199/tube/c5n
+#EXTINF:-1 tvg-name="test" tvg-id="test14" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube3
+http://20.84.80.199/tube/encuentro
+#EXTINF:-1 tvg-name="test" tvg-id="test15" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube4
+http://20.84.80.199/tube/SundomTV
+
+
 #EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" group-title="Saudi Arabia",SBC Saudi Arabia
