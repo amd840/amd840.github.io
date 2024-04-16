@@ -108,6 +108,8 @@ https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-name="SSC2" tvg-id="SSC2HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 2
 https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
+#EXTINF:-1 tvg-name="SSCEX2" tvg-id="SSCEX2HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Extra 2
+blob:https://azrotv.com/2e0eea08-87af-47be-babd-1f9116ff9763
 
 #EXTINF:-1 tvg-name="test" tvg-id="test12" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube1
 http://20.84.80.199/tube/EuronewsAlbania
