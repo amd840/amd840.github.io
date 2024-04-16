@@ -116,6 +116,8 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 
 #EXTINF:-1 tvg-name="SSCEX22" tvg-id="SSCEX2HD2.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Extra 22
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+#EXTINF:-1 tvg-name="blobSSCEX22" tvg-id="blobSSCEX2HD2.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",blobSSC Extra 22
+blob:https://azrotv.com/c6eaae29-8b65-4ffa-8d1a-bfdee42ed908
 
 #EXTINF:-1 tvg-name="test" tvg-id="test12" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube1
 http://20.84.80.199/tube/EuronewsAlbania
