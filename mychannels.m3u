@@ -76,7 +76,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
 #EXTINF:-1 tvg-name="قناة المسيرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah" group-title="news",قناة المسيرة
 https://live.cdnbridge.tv/AlmasirahTV/Almasirah_all/playlist.m3u8
-#EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://lh3.googleusercontent.com/proxy/W_G62MavaYKmmqme3gtHYpDKf_qTW6yUe-NCZ3DHwiAQ0kXsy8bQJMDT1v21Ycsuo-DMRVqvCVkVaMRPjKNxr0IeSEc0vZk-RiKzwm2pyqH-GnUmVjqpEwpET9BiC3_AgQ" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
+#EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
 http://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/chunks.m3u8
 
 #EXTINF:-1 tvg-name="IqraaArabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-id="IqraaArabic" group-title="general",IqraaArabic
