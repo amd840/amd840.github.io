@@ -75,7 +75,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:-1 tvg-name="قناة افاق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/قناة_أفاق.png" tvg-id="afaq" group-title="news",قناة افاق
 http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
 #EXTINF:-1 tvg-name="قناة المسيرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah" group-title="news",قناة المسيرة
-http://20.84.80.199/almasiralive/almasira/chunks.m3u8
+https://live.cdnbridge.tv/AlmasirahTV/Almasirah_all/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
 http://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/chunks.m3u8
 
