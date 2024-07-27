@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="بث مباشر" tvg-id="alwilayah" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="main",بث محلي
 rtp://224.0.0.1:5004
-
 #EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
