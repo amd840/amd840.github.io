@@ -56,6 +56,8 @@ http://95.216.180.111:1935/live/37/index.m3u8
 http://channels.amd840.com/alalam/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-name="360قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera360" group-title="news",قناة الجزيرة360
+http://95.216.180.111:1935/live/112/index.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="main",قناة المنار
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
