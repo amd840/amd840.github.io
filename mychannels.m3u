@@ -50,6 +50,8 @@ https://channels.amd840.com/tube/AlAAlBTv2
 
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-name="قناة طه360" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV360" group-title="main",TahaTV360
+http://95.216.180.111:1935/live/37/index.m3u8
 #EXTINF:-1 tvg-name="قناة العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/قناة_العالم.png" tvg-id="alalam" group-title="news",قناة العالم
 http://channels.amd840.com/alalam/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
