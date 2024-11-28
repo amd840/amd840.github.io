@@ -149,9 +149,9 @@ http://20.84.80.199/tube/SundomTV
 
 
 #EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
-https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+https://live.kwikmotion.com/ksa1live/ksa1.smil/playlist_dvr.m3u8?hdnts=exp=1732764338~acl=/ksa1live/ksa1.smil/*~hmac=24753fb284ffc33bda327e2bb6e09b238b3d9139c49596da4a2f6055cff55ce6
 #EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" group-title="Saudi Arabia",SBC Saudi Arabia
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
+https://live.kwikmotion.com/sbclive/sbc.smil/playlist_dvr.m3u8?hdnts=exp=1732764372~acl=/sbclive/sbc.smil/*~hmac=65002941bb0d269621fa7164c8301c7f27a8154f8307826d8a07fbb633d8a466
 #EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" group-title="Saudi Arabia",Thikrayat
 https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
