@@ -165,6 +165,6 @@ https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1 tvg-name="KSA Sports 3" tvg-logo="https://i.imgur.com/BXfCvez.png" tvg-id="KSASports3.sa" group-title="Saudi Arabia",KSA Sports 3
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1732764601~acl=/ksaquranlive/ksaquran.smil/*~hmac=d9b94d7a131e31435d536c0cffe70c09502f4dc858acb9463a569636638b8e47
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 #EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
 https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNCA0OjAwOjQ2IEFNJmhhc2hfdmFsdWU9Wk85TWt3LzkxUUZHN1l6Y1BzMDVFdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIx
