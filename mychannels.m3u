@@ -149,7 +149,7 @@ http://20.84.80.199/tube/SundomTV
 
 
 #EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
-https://live.kwikmotion.com/ksa1live/ksa1.smil/playlist_dvr.m3u8?hdnts=exp=1732764338~acl=/ksa1live/ksa1.smil/*~hmac=24753fb284ffc33bda327e2bb6e09b238b3d9139c49596da4a2f6055cff55ce6
+https://shls-masr2-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" group-title="Saudi Arabia",SBC Saudi Arabia
 https://live.kwikmotion.com/sbclive/sbc.smil/playlist_dvr.m3u8?hdnts=exp=1732764372~acl=/sbclive/sbc.smil/*~hmac=65002941bb0d269621fa7164c8301c7f27a8154f8307826d8a07fbb633d8a466
 #EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" group-title="Saudi Arabia",Thikrayat
@@ -167,4 +167,4 @@ https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
 https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1732764601~acl=/ksaquranlive/ksaquran.smil/*~hmac=d9b94d7a131e31435d536c0cffe70c09502f4dc858acb9463a569636638b8e47
 #EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
-https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/playlist_dvr.m3u8?hdnts=exp=1732764620~acl=/ksasunnalive/ksasunna.smil/*~hmac=ce34f3b36e11fc81bcfe65e9ac10a916b1179b5a0e76f8febc145b7372f3252f
+https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNCA0OjAwOjQ2IEFNJmhhc2hfdmFsdWU9Wk85TWt3LzkxUUZHN1l6Y1BzMDVFdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIx
