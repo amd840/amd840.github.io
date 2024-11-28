@@ -39,6 +39,8 @@ https://s1.ettehadlive.com/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الانوار٢" tvg-id="Al Anwar 2" tvg-logo="https://pbs.twimg.com/profile_images/844196277055373312/iajyZSFA_400x400.jpg" group-title="main",الانوار ٢
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+#EXTINF:-1 tvg-name="الانوار" tvg-id="Al Anwar 1" tvg-logo="https://pbs.twimg.com/profile_images/844196277055373312/iajyZSFA_400x400.jpg" group-title="main",الانوار 
+http://camry.live:80/arab1one.com1aa2811/233455316349/225652
 
 #EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
 http://20.84.80.199/tube/alkafeeltv
