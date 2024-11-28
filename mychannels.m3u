@@ -62,6 +62,8 @@ https://channels.amd840.com/tube/AlAAlBTv2
 https://channels.amd840.com/tube/beyraaqlive
 #EXTINF:-1 tvg-name="العقيلةHD" tvg-id="AlaqilaTv1HD" tvg-logo="https://pbs.twimg.com/profile_images/1291374636622655488/H0aaI-d-_400x400.jpg" group-title="main",العقيلةHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/286706.ts
+#EXTINF:-1 tvg-name="العقيلةHD1" tvg-id="AlaqilaTv1HD1" tvg-logo="https://pbs.twimg.com/profile_images/1291374636622655488/H0aaI-d-_400x400.jpg" group-title="main",العقيلةHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286712.ts
 
 #EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
 https://media2.livaat.com/TAHA-TV/index.m3u8
