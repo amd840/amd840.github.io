@@ -111,7 +111,7 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="SBC" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC" group-title="general",SBC
 http://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
 #EXTINF:-1 tvg-name="قناة السنة" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="general",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/6.m3u8
+https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/playlist_dvr.m3u8?hdnts=exp=1732764180~acl=/ksasunnalive/ksasunna.smil/*~hmac=6997527e3cc9e355a4ea7257e53f400a6ab4c45c9b6e1e183f80af43ea6eae44
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
 https://channels.amd840.com/tube/SaudiQuranTv
 
