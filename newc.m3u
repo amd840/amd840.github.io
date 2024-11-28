@@ -43,9 +43,6 @@ http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 https://s1.ettehadlive.com/live/120/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
-https://media2.livaat.com/TAHA-TV/index.m3u8
-
 #EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد
 http://95.216.180.111:1935/live/17/index.m3u8
 
@@ -91,31 +88,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="general",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1 tvg-name="SBC" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC" group-title="general",SBC
-http://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index_8.m3u8
-#EXTINF:-1 tvg-name="قناة السنة" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="general",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
-https://edge.taghtia.com/sa/7.m3u8
-
-
-#EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
-https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
-#EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" group-title="Saudi Arabia",SBC Saudi Arabia
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
-#EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" group-title="Saudi Arabia",Thikrayat
-https://edge.taghtia.com/sa/3.m3u8
-#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-#EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" group-title="Saudi Arabia",Al Saudiya Alaan
-https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-name="KSA Sports 1" tvg-logo="https://i.imgur.com/ONKNOAp.png" tvg-id="KSASports1.sa" group-title="Saudi Arabia",KSA Sports 1
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-name="KSA Sports 2" tvg-logo="https://i.imgur.com/v8ULLqg.png" tvg-id="KSASports2.sa" group-title="Saudi Arabia",KSA Sports 2
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-name="KSA Sports 3" tvg-logo="https://i.imgur.com/BXfCvez.png" tvg-id="KSASports3.sa" group-title="Saudi Arabia",KSA Sports 3
-https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
-https://edge.taghtia.com/sa/7.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 #EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
-https://edge.taghtia.com/sa/6.m3u8
+https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNCA0OjAwOjQ2IEFNJmhhc2hfdmFsdWU9Wk85TWt3LzkxUUZHN1l6Y1BzMDVFdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIx
+
+
