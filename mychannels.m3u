@@ -64,6 +64,11 @@ http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638277
 http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638281
 #EXTINF:-1 tvg-id="AHLULBAYT kids" tvg-name="قناة AHLULBAYT kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_bZQu5Si5BVdaO5Iu8ZB_yNbN5LIdvjnDFNMGn6Lzg&s" group-title="main",AHLULBAYT kids
 http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638284
+#EXTINF:-1 tvg-id="4TEEN " tvg-name="قناة 4TEEN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_bZQu5Si5BVdaO5Iu8ZB_yNbN5LIdvjnDFNMGn6Lzg&s" group-title="main",4TEEN 
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638300
+#EXTINF:-1 tvg-id="4TEEN kids" tvg-name="قناة 4TEEN kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_bZQu5Si5BVdaO5Iu8ZB_yNbN5LIdvjnDFNMGn6Lzg&s" group-title="main",4TEEN  kids
+
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638303
 
 
 #EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
