@@ -161,20 +161,7 @@ https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="هدهدHD" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",HDهدهد
 http://yshoots.com:80/live/arab1oneb2811/7350885901/286734.ts
 
-#EXTINF:-1 tvg-name="SSC" tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-name="SSC2" tvg-id="SSC2HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 2
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
-#EXTINF:-1 tvg-name="SSC22" tvg-id="SSC22HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 22
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-#EXTINF:-1 tvg-name="SSCEX2" tvg-id="SSCEX2HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Extra 2
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-
-#EXTINF:-1 tvg-name="SSCEX22" tvg-id="SSCEX2HD2.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Extra 22
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-#EXTINF:-1 tvg-name="blobSSCEX22" tvg-id="blobSSCEX2HD2.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",blobSSC Extra 22
-blob:https://azrotv.com/c6eaae29-8b65-4ffa-8d1a-bfdee42ed908
 
 #EXTINF:-1 tvg-name="test" tvg-id="test12" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube1
 http://20.84.80.199/tube/EuronewsAlbania
@@ -240,53 +227,53 @@ http://camry.live:80/arab1one.com1aa2811/233455316349/352279
 
 
 
-#EXTINF:-1,SSC | SPORTS 1 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 1 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50000.ts
-#EXTINF:-1,SSC | SPORTS 1 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 1 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50001.ts
-#EXTINF:-1,SSC | SPORTS 1 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 1 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50002.ts
-#EXTINF:-1,SSC | SPORTS 2 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 2 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50003.ts
-#EXTINF:-1,SSC | SPORTS 2 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 2 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50004.ts
-#EXTINF:-1,SSC | SPORTS 2 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 2 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50005.ts
-#EXTINF:-1,SSC | SPORTS 3 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 3 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50006.ts
-#EXTINF:-1,SSC | SPORTS 3 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 3 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50007.ts
-#EXTINF:-1,SSC | SPORTS 3 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 3 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50008.ts
-#EXTINF:-1,SSC | SPORTS 4 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 4 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50009.ts
-#EXTINF:-1,SSC | SPORTS 4 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 4 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50010.ts
-#EXTINF:-1,SSC | SPORTS 4 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 4 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50011.ts
-#EXTINF:-1,SSC | SPORTS 5 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 5 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50012.ts
-#EXTINF:-1,SSC | SPORTS 5 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 5 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50013.ts
-#EXTINF:-1,SSC | SPORTS 5 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 5 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50014.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 1 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 1 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50015.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 1 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 1 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50016.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 1 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 1 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50017.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 2 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 2 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50018.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 2 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 2 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50019.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 2 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 2 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/50020.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 3 FHD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 3 FHD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/304418.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 3 HD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 3 HD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/304419.ts
-#EXTINF:-1,SSC | SPORTS EXTRA 3 SD
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 3 SD
 http://yshoots.com:80/live/arab1oneb2811/7350885901/304420.ts
 #EXTINF:-1,V:SSC | SPORTS NEWS 4K
 http://yshoots.com:80/live/arab1oneb2811/7350885901/480878.ts
