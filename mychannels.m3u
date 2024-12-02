@@ -113,10 +113,10 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 #EXTINF:-1 tvg-id="BBCArabic.uk360" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (360p)
 http://95.216.180.111:1935/live/106/index.m3u8
 #EXTINF:-1 tvg-id="BBC ARABIC" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (HD)
-http://smarters.info:80/arab1one9aa2811/5266246274556/94148
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/639723
 #EXTINF:-1 tvg-id="BBC WORLD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC WORLD
 #EXTINF:-1,BBC WORLD
-http://smarters.info:80/arab1one9aa2811/5266246274556/94149
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/520644
 
 #EXTINF:-1 tvg-name="قناة افاق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/قناة_أفاق.png" tvg-id="afaq" group-title="news",قناة افاق
 http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
