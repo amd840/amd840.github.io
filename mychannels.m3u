@@ -111,8 +111,13 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk360" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (360p)
-
 http://95.216.180.111:1935/live/106/index.m3u8
+#EXTINF:-1 tvg-id="BBC ARABIC" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (HD)
+http://smarters.info:80/arab1one9aa2811/5266246274556/94148
+#EXTINF:-1 tvg-id="BBC WORLD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC WORLD
+#EXTINF:-1,BBC WORLD
+http://smarters.info:80/arab1one9aa2811/5266246274556/94149
+
 #EXTINF:-1 tvg-name="قناة افاق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/قناة_أفاق.png" tvg-id="afaq" group-title="news",قناة افاق
 http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
 #EXTINF:-1 tvg-name="قناة المسيرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah" group-title="news",قناة المسيرة
