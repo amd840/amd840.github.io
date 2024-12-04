@@ -108,6 +108,9 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b40000
 http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-name="RTArabic" tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (1080p)
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-name="RTArabicSD" tvg-id="RTArabic.rusd" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (SD)
+http://camry.live:80/arab1one.com1aa2811/233455316349/316019
+
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk360" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (360p)
